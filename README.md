@@ -2,7 +2,8 @@
 - 👀 I’m interested in data engineering world + architecture design for data apps
 - 🌱 I’m currently learning how to build microservices
 - 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me --> Mastodon @mamontesp@fosstodon.org, IG ma.montesp
+- 📫 How to reach me --> Mastodon @mamontesp@fosstodon.org, IG ma.montesp, X mamontesp
+- ✍️ Blogging: https://mamontesp.ghost.io
 
 Love talking about new tech :heart:
 
