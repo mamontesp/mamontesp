@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Andrea Montes - @mamontesp
+- 📘 [My CV](https://mamontesp.github.io/cv/)
 - 👀 I’m interested in data engineering world + architecture design for data apps
 - 🌱 I’m currently learning how to build microservices
 - 💞️ I’m looking to collaborate on data projects
