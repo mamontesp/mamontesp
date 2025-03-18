@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Andrea Montes - @mamontesp
 - 📘 [My CV](https://mamontesp.github.io/cv/)
 - 👀 I’m interested in data engineering world + architecture design for data apps
-- 🌱 I’m currently learning how to build microservices
+- 🌱 I’m currently learning model health data
 - 💞️ I’m looking to collaborate on data projects
-- 📫 How to reach me --> Mastodon @mamontesp@fosstodon.org, IG ma.montesp, X mamontesp
-- ✍️ Blogging: https://mamontesp.ghost.io
+- ✍️ Blogging: [andreamontes.substack.com](https://andreamontes.substack.com)
 
 Love talking about new tech :heart:
 
